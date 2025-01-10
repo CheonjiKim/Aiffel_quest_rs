@@ -29,10 +29,10 @@
     - 단위별로 코드가 작성되어 가독성이 좋았습니다.
 
 
-
+![image](https://github.com/user-attachments/assets/685744b7-035b-4739-92ac-e401c2104859)
 # 회고(참고 링크 및 코드 개선)
 ```
-![image](https://github.com/user-attachments/assets/685744b7-035b-4739-92ac-e401c2104859)
+
 
 # 리뷰어의 회고를 작성합니다.
 # 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
